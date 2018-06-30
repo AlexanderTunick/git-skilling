@@ -2,4 +2,4 @@ hello world
 hello again
 git
 
-GIT TEST BRANCH
+GIT TEST BRANCH + note
