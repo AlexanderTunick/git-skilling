@@ -7,3 +7,5 @@ Hello master and test
 GIT TEST BRANCH + note
 
 Unskilled made changes in master
+
+new rules for contributor
