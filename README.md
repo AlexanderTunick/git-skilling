@@ -11,3 +11,5 @@ Unskilled made changes in master
 new rules for contributor
 
 Change for cherry pick
+
+some master changes
