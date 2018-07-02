@@ -16,4 +16,4 @@ some master changes
 
 test1
 
-test 2
+feature 2 change
