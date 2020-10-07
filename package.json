@@ -1,1 +1,5 @@
-{  "scripts": {    "make test": "npm install"  }}
+{
+  "scripts": {
+    "make test": "npm install"
+  }
+}
